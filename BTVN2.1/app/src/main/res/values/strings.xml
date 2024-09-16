@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MayTinh</string>
+    <string name="result">Kết quả</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multifly">*</string>
+    <string name="divide">/</string>
+</resources>

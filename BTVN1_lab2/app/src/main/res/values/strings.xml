@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Animal Sound</string>
+    <string name="txt_loading">Loading</string>
+</resources>
